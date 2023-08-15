@@ -1,0 +1,13 @@
+Timestamps
+00:00 Intro
+02:02 Environment setup
+06:41 Layout
+31:00 Auth UI
+01:05:59 Prisma, Mongo, NextAuth
+01:49:35 Users and Individual User Profile
+02:25:36 Edit User, Image Upload
+02:47:45 Load & Create Posts
+03:23:19 Like & Follow Functionality
+03:56:48 Comments
+04:12:20 Notifications
+04:30:68 Vercel Deployment
